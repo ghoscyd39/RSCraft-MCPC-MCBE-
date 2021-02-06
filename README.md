@@ -1,0 +1,2 @@
+# RSCraft-MCPC-MCBE-
+RSCraft (Realistic Survival) is an addon/mod that makes your Minecraft survival realistic. With the addition of items, also various unique and very aggressive mobs and others.This addon / mod is also available on minecraft pc which was created by the same creator (GhoscyD) with some changes.You could say, this addon / mod was inspired by the modpack rlcraft (mcpc). "only a few are quoted" - Creators. Maybe 1-2 weeks this mod will be updated again, just wait.
